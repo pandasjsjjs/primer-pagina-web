@@ -1,7 +1,6 @@
 # primer-pagina-web
 <HTML>
 <HEAD>
-<TITLE>Programa 60</TITLE>
 </HEAD>
 <video src=D:\VIDEOS\VID1.mp4 controls autoplay loop></video> <BR>
 <audio src=D:\MUSICA\BellezaDeCantina.MP3 controls autoplay loop></audio> <BR>

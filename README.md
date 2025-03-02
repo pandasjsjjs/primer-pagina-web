@@ -4,10 +4,7 @@
 </HEAD>
 <video src=D:\VIDEOS\VID1.mp4 controls autoplay loop></video> <BR>
 <audio src=D:\MUSICA\BellezaDeCantina.MP3 controls autoplay loop></audio> <BR>
-<STYLE>
-BORDER: 1PX SOLID BLACK;
-BORDER-COLLAPSE: COLLAPSE;
-</STYLE>
+
 </HEAD>
 <BODY BGCOLOR=#3399FF>
 <TABLE>
